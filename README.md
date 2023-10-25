@@ -1,5 +1,5 @@
 # Pycryptodome Obfuscate - with Python
-![img](https://raw.githubusercontent.com/ferlyafriliyan/Tools-Obfuscate/main/Pycryptodome/Data/Pycryptodome.jpg)
+![img](https://raw.githubusercontent.com/ferlyafriliyan/Pycryptodome/main/Data/Pycryptodome.jpg)
 
 ## <p align="left">📚・Example・📚</p>
 
